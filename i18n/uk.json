@@ -1889,11 +1889,11 @@
   "week": "Тиждень",
   "welcome": "Ласкаво просимо",
   "welcome_to_immich": "Ласкаво просимо до Immich",
-  "wifi_name": "Назва WiFi",
+  "wifi_name": "Назва Wi-Fi",
   "year": "Рік",
   "years_ago": "{years, plural, one {# рік} few {# роки} many {# років} other {# років}} тому",
   "yes": "Так",
   "you_dont_have_any_shared_links": "У вас немає спільних посилань",
-  "your_wifi_name": "Ваша назва WiFi",
+  "your_wifi_name": "Назва вашої Wi-Fi мережі",
   "zoom_image": "Збільшити зображення"
 }
